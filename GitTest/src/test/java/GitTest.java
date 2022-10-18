@@ -4,6 +4,7 @@ public class GitTest {
         System.out.println("进行热修复。。。");
         System.out.println("又来了");
         System.out.println("hello master");
+        System.out.println("heool Git");
     }
 
 }
